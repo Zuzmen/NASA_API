@@ -1,4 +1,4 @@
-Small photo-gallery which shows you photos from Mars.
+Small photo-gallery which shows you photos from Mars
 
 Technologies and handy tools:
 
