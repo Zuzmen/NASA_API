@@ -9,5 +9,4 @@ Sass
 JS
 jQuery
 
-https://zuzmen.github.io/NASA_API.github.io/
 Enjoy!
